@@ -1,0 +1,23 @@
+@charset "UTF-8";
+section#conteudo{
+    width: 1000px;
+    
+}
+#frame-spec{
+    width: 425px;
+    height: 300px;
+    border: none;
+    overflow: hidden;
+    
+}
+#oculos{
+    width: 480px;
+}
+iframe#frame-spec::-webkit-scrollbar{
+    display: none;
+}
+#corpo-full{
+    overflow: hidden;
+}
+
+
