@@ -7,7 +7,7 @@ section#conteudo{
     width: 425px;
     height: 300px;
     border: none;
-    overflow: hidden;
+    
     
 }
 #oculos{
@@ -16,8 +16,6 @@ section#conteudo{
 iframe#frame-spec::-webkit-scrollbar{
     display: none;
 }
-#corpo-full{
-    overflow: hidden;
-}
+
 
 
